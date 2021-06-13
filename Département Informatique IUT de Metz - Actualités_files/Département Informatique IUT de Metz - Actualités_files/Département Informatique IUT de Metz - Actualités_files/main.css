@@ -1,0 +1,70 @@
+/* add CSS here */
+.cadre_principal {
+  background-color:#eeeeee;
+  box-shadow: 4px 4px 4px #222222;
+  border:solid 10px white;
+  height: 1250px;
+  }
+  
+  body {
+  background-color:#555555;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  }
+  
+  li {
+  margin-left:20px;
+  }
+  .navbar li {
+  margin-left:0px;
+  }
+  
+  h1 {
+  margin-left:10px;
+  color:#96b2ea;
+  }
+  
+  h2 {
+  color: #004575;
+  background-color: #cccccc;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left:15px;
+  padding-left:10px;
+  padding-right:5%;
+  display: table;
+  }
+  
+  h3 {
+  margin-left: 20px;
+  }
+  
+  .hero-unit h1 {
+  color: #96b2ea;
+  background-color: transparent;
+  }
+
+  .project-unit {
+    height: 450px;
+  }
+
+  .project-unit img{
+    padding-left:50px;
+    padding-right:50px;
+    text-align: center;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .sous_menu {
+  background-color: #65a6d1;
+  }
+  
+  .navsous_menu {
+   margin-left: 15px;
+   margin-right: 15px;
+  
+  }
+  
+  
